@@ -1,11 +1,16 @@
 # Official-color-chart
 微信小程序官方预定义颜色的中英文对照表  
+  
+画布/Color 官方文档 https://developers.weixin.qq.com/miniprogram/dev/api/canvas/Color.html  
+  
+微信小程序的颜色表示方法：  
+RGB 颜色： 如 'rgb(255, 0, 0)'  
+RGBA 颜色：如 'rgba(255, 0, 0, 0.3)'  
+16 进制颜色： 如 '#FF0000'  
+预定义的颜色： 如 'red'  
 
-## 画布 / Color  
-文档https://developers.weixin.qq.com/miniprogram/dev/api/canvas/Color.html  
 
-
-
+## 中英文对照
 Color Name	HEX	颜色名称	机翻  
 AliceBlue	#F0F8FF	淡灰蓝	爱丽丝蓝  
 AntiqueWhite	#FAEBD7	古董白	古董白色  
@@ -17,7 +22,7 @@ Bisque	#FFE4C4	橘黄	比斯克牌手表
 Black	#000000	黑	黑色  
 BlanchedAlmond	#FFEBCD	白杏	白杏仁  
 Blue	#0000FF	蓝	蓝色  
-BlueViolet	#8A2BE2	蓝紫	蓝紫罗兰
+BlueViolet	#8A2BE2	蓝紫	蓝紫罗兰  
 Brown	#A52A2A	棕	棕色的  
 BurlyWood	#DEB887	实木	硬木色  
 CadetBlue	#5F9EA0	军蓝	军服蓝  
